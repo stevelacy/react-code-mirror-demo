@@ -1,0 +1,8 @@
+{
+  "name": "react-code-mirror-demo",
+  "dependencies": {
+    "codemirror": "^5.2.0",
+    "react": "^0.13.2",
+    "react-code-mirror": "^3.0.4"
+  }
+}
