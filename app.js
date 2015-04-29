@@ -2,6 +2,7 @@ var React = require('react');
 var CodeMirror = React.createFactory(require('react-code-mirror'));
 require('codemirror/mode/javascript/javascript');
 require('codemirror/addon/selection/active-line');
+require('codemirror/addon/edit/closebrackets');
 require('codemirror/addon/edit/matchtags');
 require('codemirror/keymap/sublime');
 
